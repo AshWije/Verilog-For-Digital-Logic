@@ -1,4 +1,4 @@
-# V Programming for Digital Logic
+# Verilog for Digital Logic
 
 This repository includes the implementation of some simple data paths and the testing
 done on these data paths in order to verify they function as intended.
